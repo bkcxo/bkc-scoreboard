@@ -1,0 +1,11 @@
+[package]
+name = "bkc-scoreboard"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rocket = "0.5.1"
+rocket_dyn_templates = "0.2.0"
+serde = "1.0.209"
+serde_json = "1.0.127"
+tera = "1.20.0"
